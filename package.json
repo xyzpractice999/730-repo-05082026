@@ -1,0 +1,23 @@
+{
+  "name": "730-repo-05082026",
+  "version": "1.0.0",
+  "description": "730-repo-05082026",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzpractice999/730-repo-05082026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xyzpractice999/730-repo-05082026/issues"
+  },
+  "homepage": "https://github.com/xyzpractice999/730-repo-05082026#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.1.2"
+  }
+}
